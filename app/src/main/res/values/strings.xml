@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flows</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_text">update text</string>
+    <string name="increment_text">increment text</string>
+    <string name="admin_lock">admin lock</string>
+</resources>
